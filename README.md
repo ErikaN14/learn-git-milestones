@@ -302,7 +302,7 @@ Item # | Description | Completed
 2e | 3rd Favorite emoji | 😁 
 2f | Link to `commit #4 from VS Code` | [link] https://github.com/ErikaN14/learn-git-milestones/blob/main/README.md
 3a | Link to `first-website` github.com repo page | [link] https://github.com/ErikaN14/first-website
-4a | Link to `first-website` github.io "project site" |
+4a | Link to `first-website` github.io "project site" | [link] https://erikan14.github.io/first-website/
 
 
 
