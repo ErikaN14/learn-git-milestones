@@ -294,7 +294,7 @@ Item # | Description | Completed
 1a | 1st Favorite emoji | 😂
 1b | Link to `commit #1 from Github.com` | [Commit #1 from Github.com](https://github.com/ErikaN14/learn-git-milestones/commit/efb26ecb8556dddfceff92e56c06f74ce69d2d72)
 1c | Link to markdown tables docs | [Markdown Tables Doc](https://www.codecademy.com/resources/docs/markdown/tables)
-1d | What does `log` do? | The log command shows commit logs
+1d | What does `log` do? | The log command shows commit logs. It displays all of the commits in a repo's history. 
 2a | 2nd Favorite emoji | 🐙
 2b | Link to `commit #2 from Github Desktop` | [Commit #2 from Github Desktop](https://github.com/ErikaN14/learn-git-milestones/commit/fa1830e7153d59321a39d21cd56deb267925b608) 
 2c | Full path to your working directory | /Users/erikanavarro/Critical_Web_Design/learn-git-milestones
